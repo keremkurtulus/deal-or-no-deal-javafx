@@ -52,7 +52,6 @@ public class BoxGenerator {
     				}
     				
     			}
-    			System.out.println(); 
     		});
     		
         	btn.setId(buttonPrefixString + i);
