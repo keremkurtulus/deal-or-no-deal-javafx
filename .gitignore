@@ -1,0 +1,14 @@
+### IntelliJ Idea
+.idea/
+
+### Gradle template
+.gradle/
+build/
+
+### Maven template
+target/
+
+### eclipse
+.classpath
+.project
+.settings/
