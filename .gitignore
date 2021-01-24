@@ -3,7 +3,7 @@
 .DS_Store
 
 # java build
-bin/
+**/bin/
 
 ### IntelliJ Idea
 .idea/
